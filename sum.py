@@ -26,7 +26,24 @@
 # print ("integer =", int(c))
 # print ("decimal =",c-int(c))
 
-x = int(input("Enter the first number: "))
-last_digit= x%10
-print("The last digit of the number is:", last_digit)
+# x = int(input("Enter the first number: "))
+# last_digit= x%10
+# print("The last digit of the number is:", last_digit)
+
+# s = "ramesh"
+
+# # s[0]  = "p"
+# print(s[0])
+# s = "bansal"
+# s1 = ""
+# for t in s:
+#     if t =="a":
+#         pass
+#     elif t != "a":
+
+
+# t = "a"
+# t = t+ "b"
+
+# print(t)
 
