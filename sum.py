@@ -63,3 +63,9 @@
 # # for t in str:
 # #     if t != " ":
 # #         print(t(1).upper(),".")
+
+import random
+x = int(input())
+y = int(input())
+ans = lambda x,y : x-y
+print(ans(x,y))
